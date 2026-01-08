@@ -1,0 +1,1 @@
+An interactive mini game built using HTML, CSS, and vanilla JavaScript. The app allows users to sort words into categories using drag-and-drop interactions. Correct answers disappear, and a completion message appears when all words are sorted. This project showcases DOM manipulation, event handling, and basic game logic.
